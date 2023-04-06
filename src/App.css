@@ -1,38 +1,62 @@
-.App {
-  text-align: center;
+
+.swiper {
+  width: 69%;
+
+}
+.swiper-slide {
+  margin-left: 20px;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.swiper-container {
+  width: 400px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media screen and (min-width: 266px) {
+  .swiper-container {
+    width: 220px;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+@media screen and (min-width: 514px) {
+  .swiper-container {
+    width: 267px;
   }
 }
+@media screen and (min-width: 768px) {
+  .swiper-container {
+    width: 400px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .swiper-container {
+    width: 450px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .swiper-container {
+    width: 650px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .swiper-container {
+    width: 770px;
+  }
+}
+
+@media screen and (min-width: 1750px) {
+  .swiper {
+    width: 41%;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 0.5rem
+}
+::-webkit-scrollbar-track {
+ 
+  background: orange;
+}
+

@@ -1,0 +1,74 @@
+[
+    {
+      "_id":200,
+    "fruitname": "Apple",
+    "fruittag":"Red Delicious",
+    "price": "$15.00",
+    "alt":"concord",
+    "imgurl":"https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "_id":201,
+    "fruitname": "Banana",
+    "fruittag":"Fresh Banana",
+    "price": "$22.99",
+    "imgurl": "https://images.unsplash.com/photo-1587334206596-c0f9f7dccbe6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=581&q=80"
+    },
+    {
+    "_id":202,
+    "fruitname": "Watermelon",
+    "fruittag":"Melon",
+    "price": "$5",
+    "imgurl": "https://images.unsplash.com/photo-1581074817932-af423ba4566e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    },
+    {
+        "_id":203,
+    "fruitname": "Fresh Lemon",
+    "fruittag":"Fresh from nature God",
+    "price": "$5",
+    "imgurl": "https://images.unsplash.com/photo-1596198821562-3c4962259258?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "_id":204,
+    "fruitname": "Pomegranate",
+    "fruittag":"Freshpomegranate",
+    "price": "$20.00",
+    "imgurl": "https://images.unsplash.com/photo-1615485925600-97237c4fc1ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    },
+    {
+        "_id":205,
+    "fruitname": "Pinneapple",
+    "fruittag":"Freshpineapple",
+    "price": "$6.00",
+    "imgurl": "https://images.unsplash.com/photo-1490885578174-acda8905c2c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+    },
+    {
+        "_id":206,
+    "fruitname": "Blueberries",
+    "fruittag":"Blue Berries",
+    "price": "$ 12.25",
+    "imgurl": "https://images.unsplash.com/photo-1606757389667-45c2024f9fa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "_id":207,
+    "fruitname": "Raspberry",
+    "fruittag":"Cascade Delight",
+    "price": "$16.99",
+    "imgurl": "https://images.unsplash.com/photo-1615484476889-2830f980a5e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+        "_id":208,
+    "fruitname": "Strawberries",
+    "fruittag":"Strawberry",
+    "price": "$9.99",
+    "imgurl": "https://images.unsplash.com/photo-1622921491193-345ffb510f6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
+    },
+    {
+        "_id":209,
+    "fruitname": "Concord Grapes",
+    "fruittag":"Greatgrapes",
+    "price": "$14.00",
+    "imgurl": "https://images.unsplash.com/photo-1516876319496-d5a849a2e89b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    }
+    ]
+    

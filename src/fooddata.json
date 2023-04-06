@@ -1,0 +1,279 @@
+[
+  
+    {
+      "_id":700,
+        "itemtype":"Rice",
+      "itemname": "Shrimp Fried Rice",
+      "itemtag": "Assorted Fried rice with shrimps",
+      "price": "$26.00",
+      "alt": "Shrimp Fried Rice",
+      "imgurl": "https://images.unsplash.com/photo-1521513919009-be90ad555598?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=799&q=80"
+    },
+    {
+      "_id":300,
+        "itemtype":"Softdrinks",
+      "itemname": "Monster Energy",
+      "itemtag": "Energy Drink",
+      "price": "$24.00",
+      "alt": "Monster Energy",
+      "imgurl": "https://images.unsplash.com/photo-1644330824480-f44ba5ebb43c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=382&q=80"
+    },
+    {
+      "_id":200,
+        "itemtype":"Fruit",
+      "itemname": "Apple",
+      "itemtag": "Red Delicious",
+      "price": "$15.00",
+      "alt": "apple",
+      "imgurl": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "_id":201,
+        "itemtype":"Fruit",
+      "itemname": "Banana",
+      "itemtag": "Fresh Banana",
+      "price": "$22.99",
+      "imgurl": "https://images.unsplash.com/photo-1587334206596-c0f9f7dccbe6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=581&q=80"
+    },
+    {
+      "_id":301,
+        "itemtype":"Softdrinks",
+      "itemname": "Coca Cola",
+      "itemtag": "Chilled",
+      "price": "$5.00",
+      "imgurl": "https://images.unsplash.com/photo-1592892111425-15e04305f961?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+    },
+    {
+      "_id":500,
+        "itemtype":"Icecreams",
+      "itemname": "Strawberry Icecream",
+      "itemtag": "Strawberry and Vanilla",
+      "price": "$10.25",
+      "imgurl": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "_id":202,
+        "itemtype":"Fruit",
+      "itemname": "Watermelon",
+      "itemtag": "Melon",
+      "price": "$5",
+      "imgurl": "https://images.unsplash.com/photo-1581074817932-af423ba4566e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    },
+    {
+      "_id":203,
+        "itemtype":"Fruit",
+      "itemname": "Fresh Lemon",
+      "itemtag": "Fresh from nature God",
+      "price": "$5",
+      "imgurl": "https://images.unsplash.com/photo-1596198821562-3c4962259258?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "_id":302,
+        "itemtype":"Softdrinks",
+      "itemname": "Fanta Orange",
+      "itemtag": "Fanta Orange",
+      "price": "$6.00",
+      "imgurl": "https://images.unsplash.com/photo-1624517452488-04869289c4ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+    },
+    {
+      "_id":701,
+        "itemtype":"Rice",
+      "itemname": "Classic Pork Fried Rice",
+      "itemtag": "Fried Rice and Pork",
+      "price": "$35",
+      "imgurl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+    },
+    {
+      "_id":501,
+        "itemtype":"Icecreams",
+      "itemname": "Coco Vanilla",
+      "itemtag": "Chocolate and Vanilla",
+      "price": "$12.00",
+      "imgurl": "https://images.unsplash.com/photo-1560008581-09826d1de69e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=444&q=80"
+    },
+    {
+      "_id":502,
+        "itemtype":"Icecreams",
+      "itemname": "Chocolate Icecream",
+      "itemtag": "Chocolate and Strawberry",
+      "price": "$11.00",
+      "imgurl": "https://images.unsplash.com/photo-1553452118-621e1f860f43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "_id":504,
+      "itemname": "Cappuccino",
+      "itemtag": "with Orange Ice Cubes",
+      "price": "$10.25",
+      "imgurl": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=635&q=80"
+    },
+    {
+      "_id":702,
+        "itemtype":"Rice",
+      "itemname": "Lighter Fried Rice",
+      "itemtag": "Fried Rice & Chicken",
+      "price": "$10.25",
+      "imgurl": "https://images.unsplash.com/photo-1592119747782-d8c12c2ea267?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "_id":100,
+        "itemtype":"Chicken",
+      "itemname": "Fried Chiken",
+      "itemtag": "Broasted with Coke",
+      "price": "$20",
+      "imgurl": "https://images.unsplash.com/photo-1600555379765-f82335a7b1b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "_id":303,
+        "itemtype":"Softdrinks",
+      "itemname": "Cocktail",
+      "itemtag": "Chilled Cocktail",
+      "price": "$8.00",
+      "imgurl": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "_id":204,
+        "itemtype":"Fruit",
+      "itemname": "Pomegranate",
+      "itemtag": "Freshpomegranate",
+      "price": "$20.00",
+      "imgurl": "https://images.unsplash.com/photo-1615485925600-97237c4fc1ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    },
+    {
+      "_id":101,
+        "itemtype":"Chicken",
+      "itemname": "Chicken Kebab",
+      "itemtag": "Chicken & Kebab",
+      "price": "$80.00",
+      "imgurl": "https://images.unsplash.com/photo-1594266063697-304befca9629?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "_id":304,
+        "itemtype":"Softdrinks",
+      "itemname": "Red Bull",
+      "itemtag": "Energy Drink",
+      "price": "$17",
+      "imgurl": "https://images.unsplash.com/photo-1613218222876-954978a4404e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "_id":205,
+        "itemtype":"Fruit",
+      "itemname": "Pinneapple",
+      "itemtag": "Freshpineapple",
+      "price": "$6.00",
+      "imgurl": "https://images.unsplash.com/photo-1615485925600-97237c4fc1ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    },
+    {
+      "_id":102,
+        "itemtype":"Chicken",
+      "itemname": "Chicken Manjoorion",
+      "itemtag": "With Coca Cola",
+      "price": "$23",
+      "imgurl": "https://www.chilitochoc.com/wp-content/uploads/2020/06/ChickenManchurian3.jpg"
+    },
+    {
+      "_id":206,
+        "itemtype":"Fruit",
+      "itemname": "Blueberries",
+      "itemtag": "Blue berries",
+      "price": "$12.25",
+      "imgurl": "https://images.unsplash.com/photo-1606757389667-45c2024f9fa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "_id":703,
+        "itemtype":"Rice",
+      "itemname": "Chicken Fried Rice",
+      "itemtag": "Fried Rice & Chicken",
+      "price": "$16.99",
+      "imgurl": "https://plus.unsplash.com/premium_photo-1668782623937-56d6d64a7f36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "_id":600,
+        "itemtype":"Fish",
+      "itemname": "New Food Test",
+      "itemtag": "Short description",
+      "price": "$34",
+      "imgurl": "https://images.unsplash.com/photo-1565733618599-cb82f14f34ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+      "_id":305,
+        "itemtype":"Softdrinks",
+      "itemname": "Sprite",
+      "itemtag": "Chilled",
+      "price": "$5.00",
+      "imgurl": "https://images.unsplash.com/photo-1625772299848-391b6a87d7b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+
+    {
+      "_id":306,
+        "itemtype":"Softdrinks",
+      "itemname": "Pepsi",
+      "itemtag": "Chilled",
+      "price": "$7.25",
+      "imgurl": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=929&q=80"
+    },
+    {
+      "_id":103,
+        "itemtype":"Chicken",
+      "itemname": "Broasted Chicken",
+      "itemtag": "With potato fries",
+      "price": "$75.99",
+      "imgurl": "https://www.licious.in/blog/wp-content/uploads/2020/12/Tripple-Dipped-Broasted-Chicken-750x750.jpg"
+    },
+    {
+      "_id":104,
+    "itemtype":"Chicken",
+      "itemname": "Chicken Kebab plate",
+      "itemtag": "Grilled Chicken",
+      "price": "$15.25",
+      "imgurl": "https://images.unsplash.com/photo-1633436375795-12b3b339712f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "_id":505,
+      "itemname": "Strawberry Ice Cream",
+      "itemtag": "Strawberry",
+      "price": "$12.50",
+      "imgurl": "https://images.unsplash.com/photo-1589999637259-3c7abefd93eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "_id":207,
+        "itemtype":"Fruit",
+      "itemname": "Raspberry",
+      "itemtag": "Cascade Delight",
+      "price": "$16.99",
+      "imgurl": "https://images.unsplash.com/photo-1615484476889-2830f980a5e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+        {
+          "_id":208,
+            "itemtype":"Fruit",
+            "itemname": "Strawberries",
+            "itemtag":"Strawberry",
+            "price": "$9.99",
+            "imgurl": "https://images.unsplash.com/photo-1622921491193-345ffb510f6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
+    },
+        {
+          "_id":800,
+            "itemtype":"Curry",
+            "itemname": "Butter Chicken",
+            "itemtag":"Butter Chicken",
+            "price": "$20.00",
+            "imgurl": "https://images.unsplash.com/photo-1614398750956-402891a7dce1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
+    },
+        {
+          "_id":503,
+            "itemtype":"Icecreams",
+            "itemname": "Harlequin Icecream",
+            "itemtag":"Vanilla Chocolate Strawberry",
+            "price": "$24.99",
+            "imgurl": "https://images.unsplash.com/photo-1528826058331-d59e395cfe43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+
+    {
+      "_id":209,
+        "itemtype":"Fruit",
+        "itemname": "Concord Grapes",
+        "itemtag":"Greatgrapes",
+        "price": "$14.00",
+        "imgurl": "https://images.unsplash.com/photo-1516876319496-d5a849a2e89b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+        }
+
+]

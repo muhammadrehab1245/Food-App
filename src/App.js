@@ -1,24 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import { Navbar } from "./components/Navbar";
+import 'react-multi-carousel/lib/styles.css';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Menupage } from "./pages/Menupage";
+import { Home } from "./pages/Home";
+import { Footers } from "./components/Footers";
+import Notestate from "./context/Notestate";
+import { Loginpage } from "./pages/Loginpage";
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+        <Notestate>
+      <Router>
+     <Navbar /> 
+    
+  <Routes>
+  <Route exact path="/" element={<Home />} />
+  <Route exact path="/menu" element={<Menupage />} />
+  <Route exact path="/login" element={<Loginpage />} />
+  </Routes>
+
+<Footers/>
+  </Router>
+  </Notestate>
+    </>
   );
 }
 
