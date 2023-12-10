@@ -1,0 +1,62 @@
+
+.swiper {
+  width: 69%;
+
+}
+.swiper-slide {
+  margin-left: 20px;
+
+}
+
+.swiper-container {
+  width: 400px;
+}
+
+@media screen and (min-width: 266px) {
+  .swiper-container {
+    width: 220px;
+  }
+}
+
+@media screen and (min-width: 514px) {
+  .swiper-container {
+    width: 267px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .swiper-container {
+    width: 400px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .swiper-container {
+    width: 450px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .swiper-container {
+    width: 650px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .swiper-container {
+    width: 770px;
+  }
+}
+
+@media screen and (min-width: 1750px) {
+  .swiper {
+    width: 41%;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 0.5rem
+}
+::-webkit-scrollbar-track {
+ 
+  background: orange;
+}
+
